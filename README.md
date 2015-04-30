@@ -1,2 +1,2 @@
 # blog.ghub.io
-my blog
+来之于开源，用之于开源
